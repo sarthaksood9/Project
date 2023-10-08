@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #951c11;
+  background-color: #16d6d9;
   margin: 0;
   padding: 0;
   color: #100f0f;
@@ -10,13 +10,9 @@ body {
   max-width: 100%;
   margin: 0 auto;
   padding: 20px;
-  background-color: rgba(83, 59, 141, 0.8);
+  background-color: rgba(129, 102, 194, 0.8);
   border-radius: 5px;
   text-align: center;
-}
-
-.container #movieResults{
-  display: inline-block;
 }
 
 h1 {
@@ -79,7 +75,6 @@ button:hover {
   margin-bottom: 10px;
   transition: transform 0.3s ease;
 }
-
 .movie img:hover {
   transform: scale(1.1);
 }
